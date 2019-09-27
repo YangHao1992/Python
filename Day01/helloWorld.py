@@ -4,3 +4,4 @@ This is the first python code
 Author: Lyndon
 """
 print('hello world!')
+print('hello', 'world', sep=', ', end='!\n')
